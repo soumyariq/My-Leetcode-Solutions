@@ -21,9 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
