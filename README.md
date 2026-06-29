@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
