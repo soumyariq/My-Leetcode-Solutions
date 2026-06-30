@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
