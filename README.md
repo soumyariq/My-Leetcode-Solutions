@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -85,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
