@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
