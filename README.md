@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,4 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
+## Graph Theory
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
