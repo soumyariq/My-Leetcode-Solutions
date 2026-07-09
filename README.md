@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0120-triangle) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
