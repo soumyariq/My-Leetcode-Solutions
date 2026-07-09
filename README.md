@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2671-frequency-tracker](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2671-frequency-tracker) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Linked List
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [2671-frequency-tracker](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2671-frequency-tracker) |
 ## Doubly-Linked List
 |  |
 | ------- |
