@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2685-count-the-number-of-complete-components](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,13 +156,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2685-count-the-number-of-complete-components](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2685-count-the-number-of-complete-components](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Geometry
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
