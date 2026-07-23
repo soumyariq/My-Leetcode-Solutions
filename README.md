@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Sorting
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
