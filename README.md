@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2671-frequency-tracker](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2671-frequency-tracker) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Linked List
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2101-detonate-the-maximum-bombs](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -171,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
