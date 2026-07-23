@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Tree
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
