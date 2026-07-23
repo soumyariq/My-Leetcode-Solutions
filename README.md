@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0767-reorganize-string](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0046-permutations) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0051-n-queens) |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
