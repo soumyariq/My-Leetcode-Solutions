@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
