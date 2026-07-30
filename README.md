@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0767-reorganize-string](https://github.com/soumyariq/My-Leetcode-Solutions/tree/master/0767-reorganize-string) |
